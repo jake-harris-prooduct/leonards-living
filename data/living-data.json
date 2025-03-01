@@ -1,0 +1,81 @@
+{
+  "friends": {
+    "Jake": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 1999, "city": "London", "latitude": 51.5074, "longitude": -0.1278},
+      {"year": 2011, "city": "Leeds", "latitude": 53.8008, "longitude": -1.5491},
+      {"year": 2014, "city": "London", "latitude": 51.5074, "longitude": -0.1278},
+      {"year": 2024, "city": "Wellington", "latitude": -41.2865, "longitude": 174.7762}
+    ],
+    "Ned": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2010, "city": "Birmingham", "latitude": 52.4862, "longitude": -1.8904},
+      {"year": 2014, "city": "London", "latitude": 51.5074, "longitude": -0.1278}
+    ],
+    "Ryan": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Bristol", "latitude": 51.4545, "longitude": -2.5879},
+      {"year": 2014, "city": "London", "latitude": 51.5074, "longitude": -0.1278},
+      {"year": 2022, "city": "New York", "latitude": 40.7128, "longitude": -74.0060},
+      {"year": 2024, "city": "London", "latitude": 51.5074, "longitude": -0.1278}
+    ],
+    "Charlie": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Edinburgh", "latitude": 55.9533, "longitude": -3.1883},
+      {"year": 2019, "city": "London", "latitude": 51.5074, "longitude": -0.1278}
+    ],
+    "Josh": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Bristol", "latitude": 51.4545, "longitude": -2.5879},
+      {"year": 2020, "city": "London", "latitude": 51.5074, "longitude": -0.1278}
+    ],
+    "Sam K": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2010, "city": "Plymouth", "latitude": 50.3755, "longitude": -4.1427},
+      {"year": 2014, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339}
+    ],
+    "Sam B": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Birmingham", "latitude": 52.4862, "longitude": -1.8904},
+      {"year": 2014, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2018, "city": "London", "latitude": 51.5074, "longitude": -0.1278}
+    ],
+    "Dan": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Brighton", "latitude": 50.8225, "longitude": -0.1372},
+      {"year": 2015, "city": "London", "latitude": 51.5074, "longitude": -0.1278}
+    ],
+    "George": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Bristol", "latitude": 51.4545, "longitude": -2.5879},
+      {"year": 2015, "city": "London", "latitude": 51.5074, "longitude": -0.1278},
+      {"year": 2024, "city": "Bristol", "latitude": 51.4545, "longitude": -2.5879}
+    ],
+    "Laurie": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "London", "latitude": 51.5074, "longitude": -0.1278}
+    ],
+    "Jonny": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Swansea", "latitude": 51.6214, "longitude": -3.9436},
+      {"year": 2015, "city": "London", "latitude": 51.5074, "longitude": -0.1278},
+      {"year": 2021, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339}
+    ],
+    "Louis": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2010, "city": "London", "latitude": 51.5074, "longitude": -0.1278},
+      {"year": 2014, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339}
+    ],
+    "Jamie": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Manchester", "latitude": 53.4808, "longitude": -2.2426},
+      {"year": 2014, "city": "London", "latitude": 51.5074, "longitude": -0.1278}
+    ],
+    "Erik": [
+      {"year": 1991, "city": "Exeter", "latitude": 50.7184, "longitude": -3.5339},
+      {"year": 2011, "city": "Southampton", "latitude": 50.9097, "longitude": -1.4044},
+      {"year": 2015, "city": "London", "latitude": 51.5074, "longitude": -0.1278},
+      {"year": 2023, "city": "Oslo", "latitude": 59.9139, "longitude": 10.7522}
+    ]
+  }
+}
